@@ -4,9 +4,9 @@
 
 ### Level-3 heading
 
-*Text in Bold*
+**Text in Bold**
 
-_ Text in italic _
+*Text in italic*
 
 ### Fruits
 * Apple
