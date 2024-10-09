@@ -4,8 +4,14 @@
 
 ### Level-3 heading
 
-* Text in Bold *
+*Text in Bold*
+
 _ Text in italic _
+
+### Fruits
+* Apple
+* Orange
+* Banana
 
 This is a `command`
 
